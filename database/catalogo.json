@@ -3,24 +3,33 @@
         "codigo": 1,
         "anoDeLancamento": 2022,
         "titulo": "top Gun",
-        "atores": ["Tom Cruise", "Kelly McGillis", "Tom Skerritt"],
+        "atores": [
+            "Tom Cruise",
+            "Kelly McGillis",
+            "Tom Skerritt"
+        ],
         "duracao": 131,
         "emCartaz": true
-
     },
     {
         "codigo": 2,
         "anoDeLancamento": 2009,
         "titulo": "Avatar",
-        "atores": ["Zoë Saldaña", "Sigourney Weaver", "Sam Worthington"],
+        "atores": [
+            "Zoë Saldaña",
+            "Sigourney Weaver",
+            "Sam Worthington"
+        ],
         "duracao": 160,
         "emCartaz": false
     },
-    {   
+    {
         "codigo": 3,
         "anoDeLancamento": 2021,
         "titulo": "Dune",
-        "atores": ["Zandaya"],
+        "atores": [
+            "Zandaya"
+        ],
         "duracao": 245,
         "emCartaz": false
     },
@@ -28,8 +37,19 @@
         "codigo": 4,
         "anoDeLancamento": 2022,
         "titulo": "Doutou Estranho",
-        "atores": ["Benedict Cumberbatch", "Mads Mikkelsen"],
+        "atores": [
+            "Benedict Cumberbatch",
+            "Mads Mikkelsen"
+        ],
         "duracao": 120,
+        "emCartaz": true
+    },
+    {
+        "codigo": 5,
+        "anoDeLancamento": 2012,
+        "titulo": "Rango",
+        "atores": "[Jhonny Depp]",
+        "duracao": 150,
         "emCartaz": true
     }
 ]

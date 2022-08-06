@@ -1,6 +1,7 @@
 const catalogo = require("./database/catalogo.json");
 const mostrarFilmes = require("./functions/mostrarFilmes");
 const buscar = require("./functions/buscar");
+const adicionar = require('./functions/adicionarFilmes');
 
 let acao = process.argv[2];
 
@@ -16,7 +17,7 @@ switch(acao){
     break;
 
     case 'adicionar':
-        console.log("Adicionando Filme...");
+        adicionar();
     break;
         
     default:
